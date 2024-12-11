@@ -1,0 +1,19 @@
+{
+    "name": "IDEK.Tools.WaveFunctionCollapse.Unity",
+    "rootNamespace": "IDEK.Tools.WaveFunctionCollapse.Unity",
+    "references": [
+        "IDEK.Tools.ShocktroopUtils",
+        "IDEK.Tools.WaveFunctionCollapse.CoreLib",
+        "IDEK.Tools.WorldManagement.Unity",
+        "IDEK.Tools.WorldManagement.CoreLib"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "IDEK.Tools.WaveFunctionCollapse.CoreLib",
+    "rootNamespace": "IDEK.Tools.WaveFunctionCollapse.CoreLib",
+    "references": [
+        "GUID:217731c09da071c4eab5351ca573510b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
