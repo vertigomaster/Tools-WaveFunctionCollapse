@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace IDEK.DevTest.WFC
+namespace IDEK.WFC.Basic
 {
     [Serializable]
     public class WFCWorld3D : World<Vector3, Vector3Int, WFCTile>

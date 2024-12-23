@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System;
 
-namespace IDEK.DevTest.WFC
+namespace IDEK.WFC.Basic
 {
     public class WFCTile : WFCTile<WFCTile> { }
 
