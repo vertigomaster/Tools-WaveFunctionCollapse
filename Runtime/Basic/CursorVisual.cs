@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace IDEK.DevTest.WFC
+namespace IDEK.WFC.Basic
 {
     [ExecuteAlways]
     public class CursorVisual : MonoBehaviour
