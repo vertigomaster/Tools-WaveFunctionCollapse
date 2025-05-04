@@ -5,7 +5,8 @@
         "IDEK.Tools.ShocktroopUtils",
         "IDEK.Tools.WaveFunctionCollapse.CoreLib",
         "IDEK.Tools.WorldManagement.Unity",
-        "IDEK.Tools.WorldManagement.CoreLib"
+        "IDEK.Tools.WorldManagement.CoreLib",
+        "IDEK.Tools.Coroutines.TaskRoutines"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
